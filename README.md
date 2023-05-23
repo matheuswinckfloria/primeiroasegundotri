@@ -7,7 +7,7 @@ Matheus.Winck.Floriano@escola.pr.gov.br
 
  minimercadoclaudia@gmail.com
 
- - I'm studying in: alura
+ - I'm studying in: [Alura](https://www.alura.com.br)
  - I'm using github to share my projects
  
  ![](https://media.tenor.com/u3WiESAHnMsAAAAC/mario-bowser.gif)
